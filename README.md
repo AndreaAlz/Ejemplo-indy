@@ -7,10 +7,10 @@ El objetivo es crear identidades digitales para las máquinas que posee una empr
 
 ## Prerequisitos
 Para poder ejecutar el ejemplo se necesita tener lo siguiente instalado:
-*Docker
-*Libindy v1.6+
-*Node v8+
-*SDK
-*Indy-node testnet
+* Docker
+* Libindy v1.6+
+* Node v8+
+* SDK
+* Indy-node testnet
 
 
