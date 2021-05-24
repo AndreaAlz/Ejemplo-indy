@@ -12,5 +12,5 @@ Para poder ejecutar el ejemplo se necesita tener lo siguiente instalado:
 * Node v8+
 * SDK
 * Indy-node testnet
-
+a
 
